@@ -1,0 +1,86 @@
+{
+    "basic_info": {
+        "company_name": "AAPL Corporation Holdings Inc.",
+        "symbol": "AAPL",
+        "exchange": "NMS",
+        "currency": "USD"
+    },
+    "current_price": {
+        "price": 97.81,
+        "week52_high": 104.16,
+        "week52_low": 80.02,
+        "day_high": 99.03,
+        "day_low": 97.44,
+        "volume": 1311267,
+        "prev_close": 97.55,
+        "price_change": 0.2600000000000051,
+        "price_change_pct": 0.2665299846232754
+    },
+    "technical_analysis": {
+        "ma_20": 94.3555,
+        "ma_50": 89.28259999999999,
+        "ma_200": 92.0598,
+        "ma_cross_status": "20일 이동평균선이 50일 이동평균선 위에 위치 (단기 상승세 유지)",
+        "ma_long_cross_status": "50일 이동평균선이 200일 이동평균선 아래에 위치 (장기 하락세 유지)",
+        "trend": "상승",
+        "support_level": 138.78,
+        "resistance_level": 162.79,
+        "stop_loss": 126.59
+    },
+    "volume_analysis": {
+        "volume_latest": 1311267,
+        "volume_ma_20": 1214492,
+        "volume_change_pct": 7.968312194942007,
+        "volume_analysis": "최근 거래량(1,311,267)은 20일 평균(1,214,492) 수준을 유지하고 있습니다 (7.97%)."
+    },
+    "investment_recommendation": {
+        "target_price": 186.83,
+        "provider": "Multiple Analysts",
+        "rating": "매도",
+        "investment_opinion": "AAPL Corporation Holdings Inc.에 대한 투자 의견은 현재 '매도'입니다. 분석가들은 평균적으로 186.83 USD의 목표 주가를 제시하고 있습니다. 이는 현재 주가 수준에서 하락 위험이 있거나 고평가 되었다고 판단될 수 있습니다."
+    },
+    "key_developments": [],
+    "insider_trading": [
+        {
+            "name": "Insider Trading Co",
+            "relation": "Officer",
+            "transaction": "2,100주 매도 (299,924 USD)",
+            "date": "2025-02-26",
+            "position": "CEO"
+        },
+        {
+            "name": "Major Holder LLC",
+            "relation": "Beneficial Owner",
+            "transaction": "2,607주 매수 (378,725 USD)",
+            "date": "2025-05-15",
+            "position": "CFO"
+        },
+        {
+            "name": "Big Fund LP",
+            "relation": "Officer",
+            "transaction": "593주 매도 (92,267 USD)",
+            "date": "2025-02-21",
+            "position": "Board Member"
+        },
+        {
+            "name": "Big Fund LP",
+            "relation": "Officer",
+            "transaction": "4,905주 매수 (695,942 USD)",
+            "date": "2025-01-02",
+            "position": "Chief Counsel"
+        },
+        {
+            "name": "Major Holder LLC",
+            "relation": "Officer",
+            "transaction": "314주 매수 (약 47,863.465675443156 USD)",
+            "date": "2025-02-13",
+            "position": "Board Member"
+        }
+    ],
+    "conclusion": {
+        "trend": "상승",
+        "trend_analysis": "AAPL Corporation Holdings Inc.의 현재 주가 추세는 '상승'으로 평가됩니다. 단기 및 중기 이동평균선(20일, 50일)이 상승세를 보이고 있으며, 주가가 이들 선 위에 위치해 긍정적입니다.",
+        "volume_analysis": "최근 거래량(1,311,267)은 20일 평균(1,214,492) 수준을 유지하고 있습니다 (7.97%).",
+        "investment_opinion": "AAPL Corporation Holdings Inc.에 대한 투자 의견은 현재 '매도'입니다. 분석가들은 평균적으로 186.83 USD의 목표 주가를 제시하고 있습니다. 이는 현재 주가 수준에서 하락 위험이 있거나 고평가 되었다고 판단될 수 있습니다."
+    }
+}
